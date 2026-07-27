@@ -1,160 +1,181 @@
-<h1 align="center">Hi 👋, I'm Bilal Khan</h1>
+<h1 align="center">Hi, I'm Bilal Khan 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;Computer+Vision+Engineer;SQA+Automation+Engineer;FastAPI+%7C+React+%7C+Python+Developer" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;Computer+Vision+Engineer;SQA+Automation+Engineer;Building+Intelligent+and+Reliable+Software"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-Building intelligent software using Artificial Intelligence, Machine Learning, Computer Vision, Generative AI and Test Automation.
+  I build AI-powered applications, computer vision systems, full-stack platforms,
+  and reliable test automation solutions.
 </p>
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=bkhan9641-dev&label=Profile+Views&color=blue)
-
-![](https://img.shields.io/github/followers/bkhan9641-dev?style=social)
-
-![](https://img.shields.io/github/stars/bkhan9641-dev?style=social)
-
-</p>
-
----
-
-# 🚀 About Me
-
-- 🤖 AI & Machine Learning Engineer
-- 🧪 SQA Automation Engineer
-- 💡 Passionate about Generative AI, Computer Vision & Software Quality
-- ⚡ Building scalable AI applications and automation frameworks
-- 🌍 Open to AI/ML, GenAI and SQA Automation opportunities
-- 📍 Pakistan
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-Python • JavaScript • SQL
-
-### AI / ML
-
-TensorFlow • PyTorch • YOLO • OpenCV • Hugging Face • Scikit-learn • NumPy • Pandas
-
-### Generative AI
-
-LLMs • RAG • Prompt Engineering • Agentic AI
-
-### Backend
-
-FastAPI • Flask • REST APIs
-
-### Frontend
-
-React • HTML • CSS • Bootstrap
-
-### SQA
-
-Cypress • Selenium • API Testing • Postman • Regression Testing • Functional Testing • Smoke Testing • Manual Testing
-
-### Database
-
-MySQL
-
-### Tools
-
-Git • GitHub • Docker • VS Code
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 AI-Powered Office Productivity Monitoring System
-
-Real-time employee monitoring using Computer Vision, YOLO object detection, persistent tracking and productivity analytics.
-
----
-
-## 🛒 AI-Powered Smart Grocery Bill Checker
-
-Computer Vision application that detects grocery products and verifies them against shopping receipts.
-
----
-
-## 🏥 AI-Powered Universal Health System
-
-Healthcare platform featuring AI disease prediction, chatbot assistance, digital health records and appointment booking.
-
----
-
-## 🚗 AI-Powered Workshop Management System
-
-Smart workshop platform with online bookings, AI service recommendations and customer management.
-
----
-
-## 🧪 Cypress Automation Testing Framework
-
-Reusable end-to-end automation framework using Cypress, Selenium and API Testing.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bkhan9641-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bkhan9641-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkhan9641-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/bkhan9641-dev">
+    <img src="https://komarev.com/ghpvc/?username=bkhan9641-dev&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/bkhan9641-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/bkhan9641-dev?label=Followers&style=flat-square&logo=github" alt="Followers"/>
+  </a>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## About Me
+
+I am an AI and Machine Learning Engineer focused on building practical software using Computer Vision, Generative AI, backend APIs, and modern web technologies.
+
+I also work in Software Quality Assurance, where I create automated test scenarios, validate APIs, report defects, and improve software reliability using Cypress, Selenium, and Postman.
+
+- AI and Machine Learning development
+- Computer Vision and YOLO-based systems
+- Generative AI, LLMs, RAG, and AI chatbots
+- FastAPI and React application development
+- SQA automation, API testing, and test case design
+
+---
+
+## Technical Skills
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bkhan9641-dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,react,fastapi,flask,tensorflow,pytorch,opencv,mysql,docker,git,github,vscode,postman,selenium&perline=8" alt="Technical Skills"/>
 
+</p>
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, JavaScript, SQL |
+| AI and Machine Learning | TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy |
+| Computer Vision | OpenCV, YOLO, Object Detection, Person Tracking |
+| Generative AI | LLMs, RAG, Prompt Engineering, Agentic AI, AI Chatbots |
+| Backend | FastAPI, Flask, REST APIs |
+| Frontend | React, HTML5, CSS3, Bootstrap |
+| Database | MySQL, SQLite |
+| SQA Automation | Cypress, Selenium, Postman, API Testing |
+| Testing Practices | Test Cases, Regression Testing, Smoke Testing, Functional Testing, Bug Reporting |
+| Development Tools | Git, GitHub, Docker, VS Code |
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI-Powered Office Productivity Monitoring System
+
+A real-time workplace monitoring system using Computer Vision, YOLO, persistent person tracking, absence tracking, and productivity analytics.
+
+**Technologies:**  
+`Python` `YOLO` `OpenCV` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### AI-Powered Smart Grocery Bill Checker
+
+An intelligent computer vision system that detects grocery products and compares them with receipt items to identify missing or incorrect products.
+
+**Technologies:**  
+`Python` `YOLO` `OpenCV`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AI-Powered Universal Health System
+
+A healthcare platform with disease prediction, appointment booking, digital medical records, prescriptions, and an AI healthcare chatbot.
+
+**Technologies:**  
+`FastAPI` `React` `Machine Learning` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### AI-Powered Workshop Management System
+
+A smart workshop platform with AI service recommendations, customer booking, workshop management, service tracking, and automated workflows.
+
+**Technologies:**  
+`FastAPI` `React` `MySQL` `AI`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AI-Powered SQA Automation Framework
+
+A reusable software testing framework for end-to-end testing, API validation, regression testing, automated assertions, and reporting.
+
+**Technologies:**  
+`Cypress` `Selenium` `JavaScript` `Postman`
+
+</td>
+<td width="50%" valign="top">
+
+### AI-Powered Generative AI Applications
+
+A collection of LLM-based applications using prompt engineering, retrieval-augmented generation, AI chatbots, APIs, and intelligent automation.
+
+**Technologies:**  
+`Python` `LLMs` `RAG` `FastAPI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=bkhan9641-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=bkhan9641-dev&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkhan9641-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## Contribution Activity
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bkhan9641-dev&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bkhan9641-dev&theme=github-dark&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## Development Focus
 
-> Enable this after creating a GitHub Action.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/bkhan9641-dev/bkhan9641-dev/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-💼 LinkedIn: YOUR_LINKEDIN
-
-📧 Email: YOUR_EMAIL
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+```text
+AI Development          ███████████████████░   95%
+Computer Vision         ██████████████████░░   90%
+Backend Development     █████████████████░░░   85%
+SQA Automation          ████████████████░░░░   80%
+Frontend Development    ███████████████░░░░░   75%
