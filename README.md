@@ -418,23 +418,20 @@ A collection of LLM-based applications using prompt engineering, Retrieval-Augme
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bkhan9641-dev/bkhan9641-dev/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/bkhan9641-dev/bkhan9641-dev/gh-pages/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/bkhan9641-dev/bkhan9641-dev/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/bkhan9641-dev/bkhan9641-dev/gh-pages/github-snake.svg"
   />
   <img
+    src="https://raw.githubusercontent.com/bkhan9641-dev/bkhan9641-dev/gh-pages/github-snake.svg"
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/bkhan9641-dev/bkhan9641-dev/output/github-snake.svg"
     width="100%"
   />
 </picture>
 
 </div>
-
----
-
 <!-- ========================= FOOTER ========================= -->
 
 <div align="center">
