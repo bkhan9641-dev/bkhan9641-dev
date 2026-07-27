@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bilal Khan</h1>
 
-<h3 align="center">
-AI & Machine Learning Engineer | SQA Automation Engineer | Generative AI | Computer Vision
-</h3>
-
 <p align="center">
-Building intelligent AI-powered applications, automation solutions, and scalable software using Machine Learning, Computer Vision, Generative AI, and Modern Web Technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;Computer+Vision+Engineer;SQA+Automation+Engineer;FastAPI+%7C+React+%7C+Python+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bkhan9641-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/bkhan9641-dev?label=Followers&style=social" alt="Followers"/>
+Building intelligent software using Artificial Intelligence, Machine Learning, Computer Vision, Generative AI and Test Automation.
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=bkhan9641-dev&label=Profile+Views&color=blue)
+
+![](https://img.shields.io/github/followers/bkhan9641-dev?style=social)
+
+![](https://img.shields.io/github/stars/bkhan9641-dev?style=social)
+
 </p>
 
 ---
@@ -19,165 +24,137 @@ Building intelligent AI-powered applications, automation solutions, and scalable
 
 - 🤖 AI & Machine Learning Engineer
 - 🧪 SQA Automation Engineer
-- 🧠 Passionate about Generative AI, Computer Vision, and Test Automation
-- ⚡ Building AI-powered software that solves real-world problems
-- 💻 Experienced in Python, FastAPI, React, Cypress, Selenium, REST APIs, and SQL
-- 🎯 Focused on clean code, scalable architecture, and software quality
+- 💡 Passionate about Generative AI, Computer Vision & Software Quality
+- ⚡ Building scalable AI applications and automation frameworks
+- 🌍 Open to AI/ML, GenAI and SQA Automation opportunities
+- 📍 Pakistan
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+### Languages
 
-- Python
-- JavaScript
+Python • JavaScript • SQL
 
-### 🤖 AI & Machine Learning
+### AI / ML
 
-- TensorFlow
-- PyTorch
-- OpenCV
-- YOLO
-- Hugging Face Transformers
-- Scikit-learn
-- Pandas
-- NumPy
+TensorFlow • PyTorch • YOLO • OpenCV • Hugging Face • Scikit-learn • NumPy • Pandas
 
-### 🧠 Generative AI
+### Generative AI
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- Prompt Engineering
-- AI Chatbots
+LLMs • RAG • Prompt Engineering • Agentic AI
 
-### 🧪 SQA & Automation
+### Backend
 
-- Cypress
-- Selenium
-- Manual Testing
-- API Testing
-- Postman
-- Test Case Design
-- Regression Testing
-- Functional Testing
-- Smoke Testing
-- Bug Reporting
+FastAPI • Flask • REST APIs
 
-### ⚙️ Backend
+### Frontend
 
-- FastAPI
-- Flask
-- REST APIs
+React • HTML • CSS • Bootstrap
 
-### 🎨 Frontend
+### SQA
 
-- React
-- HTML5
-- CSS3
-- Bootstrap
+Cypress • Selenium • API Testing • Postman • Regression Testing • Functional Testing • Smoke Testing • Manual Testing
 
-### 🗄️ Database
+### Database
 
-- MySQL
+MySQL
 
-### 🛠️ Tools
+### Tools
 
-- Git
-- GitHub
-- VS Code
-- Docker
+Git • GitHub • Docker • VS Code
 
 ---
 
-# 🚀 AI-Powered Projects
+# 🚀 Featured Projects
 
 ## 🧠 AI-Powered Office Productivity Monitoring System
 
-A real-time employee productivity monitoring system that uses Computer Vision and YOLO for intelligent object detection, employee tracking, productivity analytics, and workplace insights.
-
-**Tech Stack**
-
-Python • YOLO • OpenCV • FastAPI
+Real-time employee monitoring using Computer Vision, YOLO object detection, persistent tracking and productivity analytics.
 
 ---
 
 ## 🛒 AI-Powered Smart Grocery Bill Checker
 
-An intelligent Computer Vision application that detects grocery items and automatically verifies them against shopping receipts to identify missing or incorrect products.
-
-**Tech Stack**
-
-Python • YOLO • OpenCV
+Computer Vision application that detects grocery products and verifies them against shopping receipts.
 
 ---
 
 ## 🏥 AI-Powered Universal Health System
 
-A smart healthcare platform featuring AI-based disease prediction, medical chatbot assistance, appointment scheduling, digital prescriptions, and electronic health records.
-
-**Tech Stack**
-
-FastAPI • React • Machine Learning • MySQL
+Healthcare platform featuring AI disease prediction, chatbot assistance, digital health records and appointment booking.
 
 ---
 
 ## 🚗 AI-Powered Workshop Management System
 
-An intelligent workshop management platform with AI-powered service recommendations, online appointment booking, customer management, service tracking, and automated workflows.
-
-**Tech Stack**
-
-FastAPI • React • MySQL • AI
+Smart workshop platform with online bookings, AI service recommendations and customer management.
 
 ---
 
-## 🧪 AI-Powered Web Test Automation Framework
+## 🧪 Cypress Automation Testing Framework
 
-A modern automation testing framework built using Cypress and Selenium for end-to-end testing, API validation, regression testing, reusable test cases, and detailed reporting.
-
-**Tech Stack**
-
-Cypress • Selenium • JavaScript • Postman
+Reusable end-to-end automation framework using Cypress, Selenium and API Testing.
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bkhan9641-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkhan9641-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bkhan9641-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bkhan9641-dev&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bkhan9641-dev&theme=tokyonight&hide_border=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkhan9641-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🎯 Areas of Interest
+# 📈 Contribution Graph
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Computer Vision
-- Agentic AI
-- Software Quality Assurance
-- Test Automation
-- Full-Stack AI Applications
-- REST APIs
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bkhan9641-dev&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 🏆 GitHub Trophies
 
-💼 LinkedIn: https://www.linkedin.com/in/bilal-khan-914820283/
+<p align="center">
 
-📧 Email: bkhan9641@gmail.com
+<img src="https://github-profile-trophy.vercel.app/?username=bkhan9641-dev&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</p>
 
 ---
 
-⭐ Thank you for visiting my profile!
+# 🐍 Contribution Snake
 
-I'm always excited to collaborate on AI, Machine Learning, Computer Vision, Generative AI, and SQA Automation projects. Feel free to explore my repositories or connect with me.
+> Enable this after creating a GitHub Action.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/bkhan9641-dev/bkhan9641-dev/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+💼 LinkedIn: YOUR_LINKEDIN
+
+📧 Email: YOUR_EMAIL
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
