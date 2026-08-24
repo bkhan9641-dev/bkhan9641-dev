@@ -32,8 +32,10 @@ I build **AI-powered applications, Computer Vision systems, full-stack platforms
 
 <br>
 
+---
+
 <!-- ========================= ABOUT ========================= -->
-## `> whoami`
+## 🧑‍💻 About Me
 
 I am an **AI and Machine Learning Engineer** focused on building practical software using **Computer Vision, Generative AI, backend APIs, databases, and modern web technologies**.
 
@@ -60,8 +62,10 @@ bilal = {
 
 <br>
 
+---
+
 <!-- ========================= TECHNOLOGIES ========================= -->
-## `> system --show-tech-stack`
+## 🛠️ Tech Stack
 
 **Programming Languages**
 
@@ -118,8 +122,10 @@ bilal = {
 
 <br>
 
+---
+
 <!-- ========================= EXPERTISE ========================= -->
-## `> cat technical-expertise.txt`
+## 📊 Technical Expertise
 
 | Area | Technologies |
 |---|---|
@@ -136,8 +142,10 @@ bilal = {
 
 <br>
 
+---
+
 <!-- ========================= PROJECTS ========================= -->
-## `> ls featured-projects`
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -291,8 +299,10 @@ A collection of LLM-based applications using prompt engineering, Retrieval-Augme
 
 <br>
 
+---
+
 <!-- ========================= STATISTICS ========================= -->
-## `> system --fetch-stats`
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -317,8 +327,10 @@ A collection of LLM-based applications using prompt engineering, Retrieval-Augme
 
 <br>
 
+---
+
 <!-- ========================= CONTRIBUTION SNAKE ========================= -->
-## `> snake --eat-contributions`
+## 🐍 Contribution Activity
 
 <div align="center">
 <picture>
@@ -328,12 +340,14 @@ A collection of LLM-based applications using prompt engineering, Retrieval-Augme
 </picture>
 </div>
 
-<sub align="center">Populates automatically once the "Generate Snake Animation" workflow has run at least once — see setup notes.</sub>
+<p align="center"><sub>Populates automatically once the "Generate Snake Animation" workflow has run at least once.</sub></p>
 
 <br>
 
+---
+
 <!-- ========================= CONNECT ========================= -->
-## `> ping bkhan9641-dev`
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -351,15 +365,12 @@ A collection of LLM-based applications using prompt engineering, Retrieval-Augme
 
 <br>
 
+---
+
 <!-- ========================= FOOTER ========================= -->
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════╗
-║           Thanks for visiting...             ║
-║       Feel free to explore my projects!      ║
-╚══════════════════════════════════════════════╝
-```
+**Thanks for stopping by — feel free to explore my projects and reach out.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=120&section=footer" alt="Footer" />
 
