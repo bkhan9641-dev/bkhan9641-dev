@@ -1,0 +1,29 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bannerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#0969DA">
+        <animate attributeName="stop-color" values="#0969DA;#00C2FF;#0969DA" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00C2FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="200" fill="#0D1117"/>
+
+  <path d="M0,150 C150,110 300,190 450,150 C600,110 750,190 900,150 L900,200 L0,200 Z" fill="url(#bannerGradient)" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-60,0;0,0" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,165 C150,140 300,195 450,165 C600,140 750,195 900,165 L900,200 L0,200 Z" fill="url(#bannerGradient)" opacity="0.85">
+    <animateTransform attributeName="transform" type="translate" values="0,0;40,0;0,0" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="450" y="90" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF" opacity="0">
+    Bilal Khan
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.15;1" dur="1.6s" fill="freeze"/>
+  </text>
+  <text x="450" y="128" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#8FD3FF" opacity="0">
+    AI &amp; Machine Learning Engineer  ·  SQA Automation
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.35;1" dur="2s" fill="freeze"/>
+  </text>
+</svg>
