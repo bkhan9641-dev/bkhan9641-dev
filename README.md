@@ -3,7 +3,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0969DA,100:00C2FF&text=Bilal%20Khan&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20SQA%20Automation&descAlignY=60&animation=fadeIn"
+  src="https://raw.githubusercontent.com/bkhan9641-dev/bkhan9641-dev/main/assets/banner.svg"
   alt="Bilal Khan Banner"
 />
 
@@ -372,6 +372,6 @@ A collection of LLM-based applications using prompt engineering, Retrieval-Augme
 
 **Thanks for stopping by — feel free to explore my projects and reach out.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=120&section=footer" alt="Footer" />
+<img width="100%" src="https://raw.githubusercontent.com/bkhan9641-dev/bkhan9641-dev/main/assets/footer.svg" alt="Footer" />
 
 </div>
