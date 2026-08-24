@@ -306,23 +306,8 @@ A collection of LLM-based applications using prompt engineering, Retrieval-Augme
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bkhan9641-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-<img width="48%" src="https://streak-stats.demolab.com?user=bkhan9641-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=bkhan9641-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
-<br>
-
-**Most Used Languages**
-
-<div align="center">
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkhan9641-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bkhan9641-dev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </div>
 
 <br>
